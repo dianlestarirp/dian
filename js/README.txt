@@ -1,0 +1,3 @@
+system requirements:
+- PHP versi 7 keatas
+- MySQL versi ...
